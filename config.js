@@ -7,9 +7,9 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 SESSION_ID: 'TVMDwDKA#6sL5M1s-JTIOkQQtNk2bQVJvfhBe-nvf0LxRVFLKHWA',
-GITHUB_TOKEN: '',
+GITHUB_TOKEN: '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',
 
-GITHUB_USER_NAME: '',
+GITHUB_USER_NAME: 'botmvtvfilm',
 
 };
 
