@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 
 
 module.exports = {
-SESSION_ID: 'TVMDwDKA#6sL5M1s-JTIOkQQtNk2bQVJvfhBe-nvf0LxRVFLKHWA',
+SESSION_ID: 'DARK-SHUTER-MD=N6Nx0aaB#i5WclO7YNOJwbT5IFaEMEx43yp43qvS6EeEU-wK4wiM',
 GITHUB_TOKEN: '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',
 
 GITHUB_USER_NAME: 'botmvtvfilm',
